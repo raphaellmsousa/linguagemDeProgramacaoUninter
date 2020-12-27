@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\rapha\source\repos\distancia\distancia\Source.cpp(82,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapha\source\repos\distancia\distancia\Source.cpp(83,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapha\source\repos\distancia\distancia\Source.cpp(84,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  distancia.vcxproj -> C:\Users\rapha\source\repos\distancia\Debug\distancia.exe
