@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\rapha\source\repos\imposto\imposto\Source.cpp(97,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapha\source\repos\imposto\imposto\Source.cpp(105,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapha\source\repos\imposto\imposto\Source.cpp(113,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapha\source\repos\imposto\imposto\Source.cpp(121,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  imposto.vcxproj -> C:\Users\rapha\source\repos\imposto\Debug\imposto.exe
